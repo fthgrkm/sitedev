@@ -2,5 +2,12 @@
 sadadsafdaghgfgkoıulöıkulu
 dasjdklasjdklasjdaklsjdaslksla
 9qıqweopıqwe9845554556456
+<<<<<<< HEAD
+888888888888888888888888
+=======
 s9999999999999999999999
+<<<<<<< HEAD
 55555555555555
+=======
+>>>>>>> 6bae0ef264bb711049b093f433a152c075a01cf2
+>>>>>>> abf2394484bea077cbc035b15caf3d0a2b2f5ac1
